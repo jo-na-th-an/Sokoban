@@ -6,7 +6,7 @@ using namespace sf;
 
 void main() {
 
-	RenderWindow MENU(VideoMode(800, 600,64), "Pamela Cipriano Jonathan", Style::Default);
+	RenderWindow MENU(VideoMode(800, 600,64), "Pamela Keysha Cipriano Jonathan ", Style::Default);
 	Menu menu(MENU.getSize().x, MENU.getSize().y);
 
 	while (MENU.isOpen()) {

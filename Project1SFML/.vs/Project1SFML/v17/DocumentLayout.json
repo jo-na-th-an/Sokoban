@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Sfml.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|solutionrelative:Project1SFML\\Sfml.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|solutionrelative:Project1SFML\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sfml.cpp",
+              "DocumentMoniker": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Sfml.cpp",
+              "RelativeDocumentMoniker": "Project1SFML\\Sfml.cpp",
+              "ToolTip": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Sfml.cpp",
+              "RelativeToolTip": "Project1SFML\\Sfml.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T00:46:26.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Menu.cpp",
+              "RelativeDocumentMoniker": "Project1SFML\\Menu.cpp",
+              "ToolTip": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Menu.cpp",
+              "RelativeToolTip": "Project1SFML\\Menu.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T00:45:54.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
