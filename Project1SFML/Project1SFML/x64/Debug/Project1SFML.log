@@ -1,13 +1,17 @@
-﻿  Sfml.cpp
-C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Sfml.cpp(7,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
-C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Sfml.cpp(10,44): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
-C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Sfml.cpp(10,44): warning C4244:         with
-C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Sfml.cpp(10,44): warning C4244:         [
-C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Sfml.cpp(10,44): warning C4244:             T=unsigned int
-C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Sfml.cpp(10,44): warning C4244:         ]
-C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Sfml.cpp(10,26): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
-C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Sfml.cpp(10,26): warning C4244:         with
-C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Sfml.cpp(10,26): warning C4244:         [
-C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Sfml.cpp(10,26): warning C4244:             T=unsigned int
-C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Sfml.cpp(10,26): warning C4244:         ]
-  Project1SFML.vcxproj -> C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\x64\Debug\Project1SFML.exe
+﻿  Game.cpp
+C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Grid.h(33,1): error C3872: '0xa0': este carácter no se permite en un identificador
+C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Grid.h(33,1): error C1021: comando de preprocesador 'endif ' no válido
+  Grid.cpp
+C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Grid.h(33,1): error C3872: '0xa0': este carácter no se permite en un identificador
+C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Grid.h(33,1): error C1021: comando de preprocesador 'endif ' no válido
+  Menu.cpp
+C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Grid.h(33,1): error C3872: '0xa0': este carácter no se permite en un identificador
+C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Grid.h(33,1): error C1021: comando de preprocesador 'endif ' no válido
+  Nivel3.txt
+C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Nivel3.txt(1,1): error C2019: se esperaba una directiva del preprocesador; se encontró '#'
+C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Nivel3.txt(2,1): error C2019: se esperaba una directiva del preprocesador; se encontró '#'
+C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Nivel3.txt(3,1): error C2019: se esperaba una directiva del preprocesador; se encontró '@'
+C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Nivel3.txt(4,1): error C2019: se esperaba una directiva del preprocesador; se encontró '#'
+C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Nivel3.txt(5,1): error C2019: se esperaba una directiva del preprocesador; se encontró '#'
+C:\Users\jc401\Documents\GitHub\Sokoban\Project1SFML\Project1SFML\Nivel3.txt(6,1): error C2019: se esperaba una directiva del preprocesador; se encontró '#'
+  Generando código...

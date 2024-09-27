@@ -133,14 +133,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="File.h" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Grid.cpp" />
+    <ClCompile Include="GridNode.cpp" />
     <ClCompile Include="Menu.cpp" />
-    <ClCompile Include="Sfml.cpp" />
+    <ClCompile Include="Nivel3.txt" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\Downloads\Imagen1.jpeg" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Grid.h" />
+    <ClInclude Include="GridNode.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Nivel1.txt" />
+    <Text Include="Nivel2.txt" />
+    <Text Include="Nivel4.txt" />
+    <Text Include="Nivel5.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

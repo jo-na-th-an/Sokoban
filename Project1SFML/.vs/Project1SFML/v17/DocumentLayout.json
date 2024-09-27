@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Sfml.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|solutionrelative:Project1SFML\\Sfml.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Nivel2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|solutionrelative:Project1SFML\\Nivel2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|solutionrelative:Project1SFML\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|solutionrelative:Project1SFML\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\GridNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|solutionrelative:Project1SFML\\GridNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{435370FC-A034-4196-97F9-87C43FB6D0DC}|Project1SFML\\Project1SFML.vcxproj|solutionrelative:Project1SFML\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Sfml.cpp",
-              "DocumentMoniker": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Sfml.cpp",
-              "RelativeDocumentMoniker": "Project1SFML\\Sfml.cpp",
-              "ToolTip": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Sfml.cpp",
-              "RelativeToolTip": "Project1SFML\\Sfml.cpp",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAAA4AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-18T00:46:26.539Z",
+              "Title": "Nivel2.txt",
+              "DocumentMoniker": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Nivel2.txt",
+              "RelativeDocumentMoniker": "Project1SFML\\Nivel2.txt",
+              "ToolTip": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Nivel2.txt",
+              "RelativeToolTip": "Project1SFML\\Nivel2.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-21T17:41:14.274Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GridNode.cpp",
+              "DocumentMoniker": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\GridNode.cpp",
+              "RelativeDocumentMoniker": "Project1SFML\\GridNode.cpp",
+              "ToolTip": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\GridNode.cpp",
+              "RelativeToolTip": "Project1SFML\\GridNode.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T17:32:04.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Game.cpp",
+              "RelativeDocumentMoniker": "Project1SFML\\Game.cpp",
+              "ToolTip": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Game.cpp",
+              "RelativeToolTip": "Project1SFML\\Game.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T17:25:36.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grid.cpp",
+              "DocumentMoniker": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Grid.cpp",
+              "RelativeDocumentMoniker": "Project1SFML\\Grid.cpp",
+              "ToolTip": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Grid.cpp",
+              "RelativeToolTip": "Project1SFML\\Grid.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwNEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T16:44:27.011Z"
             },
             {
               "$type": "Document",
@@ -41,9 +89,9 @@
               "RelativeDocumentMoniker": "Project1SFML\\Menu.cpp",
               "ToolTip": "C:\\Users\\jc401\\Documents\\GitHub\\Sokoban\\Project1SFML\\Project1SFML\\Menu.cpp",
               "RelativeToolTip": "Project1SFML\\Menu.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-18T00:45:54.539Z",
+              "WhenOpened": "2024-09-21T16:37:07.094Z",
               "EditorCaption": ""
             }
           ]
